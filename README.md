@@ -56,7 +56,9 @@ Advanced Queries:
 #    How to Use?
 
 1️⃣ Download the dataset
+
 2️⃣ Import it into MySQL
+
 3️⃣ Run the provided queries or create your own
 
 
