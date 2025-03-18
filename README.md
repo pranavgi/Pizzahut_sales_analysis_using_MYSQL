@@ -8,18 +8,24 @@ This Project contains a Pizza Hut dataset analysis using MySQL. The dataset, ori
 The dataset consists of four tables:
 
 orders – Contains order details like order ID, date, and time.
+
 order_details – Includes order items, quantity, and price.
+
 pizza_types – Lists different pizza types and their ingredients.
+
 pizzas – Contains pizza sizes, categories, and prices.
 
 # 🛠️ Analysis Techniques Used
 
 ✔ SQL Queries: JOIN, GROUP BY, HAVING, CTE, Window Functions
+
 ✔ Data Aggregation & Filtering
+
 ✔ Performance Metrics Calculation
+
 ✔ Trend Analysis
 
-# ❓ SQL Questions Answered
+# ❓ SQL Questions 
 
 Basic Queries:
 
